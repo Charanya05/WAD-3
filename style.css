@@ -7,14 +7,7 @@ h1
  background:yellow;
 
 }
-h3
-{
-font-family :"Comic sans MS";
-color : red;
-font-size : 40;
-font-style : bold;
- background:Navyblue;
-}
+
 body
 {
 font-family : "Comic sans MS";
@@ -33,12 +26,7 @@ color : violet;
 font-size : 14;
 font-style : bold;
 }
-form
-{
-color : orange;
-font-size : 12;
-font-style : bold;
-}
+
 ul
 {
 color : lightgreen;
@@ -63,9 +51,4 @@ color : violet;
 font-size : 12;
 font-style : italic;
 }
-head
-{
-color : grey;
-font-size : 20;
-font-style : bold;
-}
+

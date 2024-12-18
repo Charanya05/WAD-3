@@ -10,8 +10,8 @@ h1
 
 body
 {
-font-family : "Times New Roman";
-color : lightblue;
+font-family : "Comic sans MS";
+color : blue;
 font-size : 16;
 }
 title
@@ -22,17 +22,11 @@ font-style : bold;
 }
 li
 {
-color : violet;
+color : green;
 font-size : 14;
 font-style : bold;
 }
 
-ul
-{
-color : lightgreen;
-font-size : 14;
-font-style : bold;
-}
 ol
 {
 color : purple;
@@ -43,11 +37,5 @@ tr
 {
 color : black;
 font-size : 14;
-font-style : italic;
-}
-tr
-{
-color : violet;
-font-size : 12;
 font-style : italic;
 }
